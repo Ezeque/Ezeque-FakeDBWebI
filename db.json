@@ -1,26 +1,28 @@
-[
-    {
-      "marca": "Toyota",
-      "modelo": "Corolla",
-      "cor": "Prata",
-      "imagem": "https://djdnloyvqzzd3.cloudfront.net/static/gallery/br/desktop/toyota_corolla_2022_perfil_frente.jpg"
-    },
-    {
-      "marca": "Honda",
-      "modelo": "Civic",
-      "cor": "Preto",
-      "imagem": "https://cdn.motor1.com/images/mgl/lQpVO/s1/honda-civic-sport-2021.webp"
-    },
-    {
-      "marca": "Ford",
-      "modelo": "EcoSport",
-      "cor": "Branco",
-      "imagem": "https://blog.usadosbr.com/wp-content/uploads/2018/02/Ford-EcoSport-SE-Direct.png"
-    },
-    {
-      "marca": "Chevrolet",
-      "modelo": "Onix",
-      "cor": "Azul",
-      "imagem": "https://mundodoautomovelparapcd.com.br/wp-content/uploads/2020/03/onix-hatch-ls-autom%C3%A1tico-1024x559.jpg"
-    }
-  ]
+{
+    "carros": [
+        {
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "cor": "Prata",
+            "imagem": "https://djdnloyvqzzd3.cloudfront.net/static/gallery/br/desktop/toyota_corolla_2022_perfil_frente.jpg"
+        },
+        {
+            "marca": "Honda",
+            "modelo": "Civic",
+            "cor": "Preto",
+            "imagem": "https://cdn.motor1.com/images/mgl/lQpVO/s1/honda-civic-sport-2021.webp"
+        },
+        {
+            "marca": "Ford",
+            "modelo": "EcoSport",
+            "cor": "Branco",
+            "imagem": "https://blog.usadosbr.com/wp-content/uploads/2018/02/Ford-EcoSport-SE-Direct.png"
+        },
+        {
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "cor": "Azul",
+            "imagem": "https://mundodoautomovelparapcd.com.br/wp-content/uploads/2020/03/onix-hatch-ls-autom%C3%A1tico-1024x559.jpg"
+        }
+    ]
+}
