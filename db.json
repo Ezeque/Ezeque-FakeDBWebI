@@ -61,12 +61,5 @@
       "ano": 2023,
       "cor": "Branco",
       "imagem": "https://autoranking.com.br/wp-content/uploads/2022/06/Fiat-Argo.jpeg"
-    },
-    {
-      "marca": "Nissan",
-      "modelo": "Kicks",
-      "ano": 2022,
-      "cor": "Azul",
-      "imagem": "https://wieck-nissanao-production.s3.amazonaws.com/photos/f7993e6c6fa9845b786c5b3a72ca83a4bb105644/preview-928x522.jpg"
     }
   ]
