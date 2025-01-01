@@ -2,63 +2,54 @@
     {
       "marca": "Toyota",
       "modelo": "Corolla",
-      "ano": 2022,
       "cor": "Prata",
       "imagem": "https://djdnloyvqzzd3.cloudfront.net/static/gallery/br/desktop/toyota_corolla_2022_perfil_frente.jpg"
     },
     {
       "marca": "Honda",
       "modelo": "Civic",
-      "ano": 2021,
       "cor": "Preto",
       "imagem": "https://cdn.motor1.com/images/mgl/lQpVO/s1/honda-civic-sport-2021.webp"
     },
     {
       "marca": "Ford",
       "modelo": "EcoSport",
-      "ano": 2020,
       "cor": "Branco",
       "imagem": "https://blog.usadosbr.com/wp-content/uploads/2018/02/Ford-EcoSport-SE-Direct.png"
     },
     {
       "marca": "Chevrolet",
       "modelo": "Onix",
-      "ano": 2023,
       "cor": "Azul",
       "imagem": "https://mundodoautomovelparapcd.com.br/wp-content/uploads/2020/03/onix-hatch-ls-autom%C3%A1tico-1024x559.jpg"
     },
     {
       "marca": "Hyundai",
       "modelo": "Tucson",
-      "ano": 2019,
       "cor": "Vermelho",
       "imagem": "https://www.autoo.com.br/fotos/2024/10/1280_960/tucson1_15102024_80870_1280_960.jpg"
     },
     {
       "marca": "Renault",
       "modelo": "Sandero",
-      "ano": 2022,
       "cor": "Prata",
       "imagem": "https://cdn-motorshow-ssl.akamaized.net/wp-content/uploads/sites/2/2017/07/4_ms408_renault-sandero-stepway1-630x420.jpg"
     },
     {
       "marca": "Volkswagen",
       "modelo": "Golf",
-      "ano": 2020,
       "cor": "Cinza",
       "imagem": "https://cdn.motor1.com/images/mgl/Qem2ZO/s1/volkswagen-golf-gti-2024.webp"
     },
     {
       "marca": "Jeep",
       "modelo": "Compass",
-      "ano": 2021,
       "cor": "Preto",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/0_Jeep_Compass_%28MP%29_1.jpg/1200px-0_Jeep_Compass_%28MP%29_1.jpg"
     },
     {
       "marca": "Fiat",
       "modelo": "Argo",
-      "ano": 2023,
       "cor": "Branco",
       "imagem": "https://autoranking.com.br/wp-content/uploads/2022/06/Fiat-Argo.jpeg"
     }
