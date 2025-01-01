@@ -4,9 +4,6 @@
       "modelo": "Corolla",
       "ano": 2022,
       "cor": "Prata",
-      "tipo": "Sedan",
-      "quilometragem": 15000,
-      "portas": 4,
       "imagem": "https://djdnloyvqzzd3.cloudfront.net/static/gallery/br/desktop/toyota_corolla_2022_perfil_frente.jpg"
     },
     {
@@ -14,9 +11,6 @@
       "modelo": "Civic",
       "ano": 2021,
       "cor": "Preto",
-      "tipo": "Sedan",
-      "quilometragem": 20000,
-      "portas": 4,
       "imagem": "https://cdn.motor1.com/images/mgl/lQpVO/s1/honda-civic-sport-2021.webp"
     },
     {
@@ -24,9 +18,6 @@
       "modelo": "EcoSport",
       "ano": 2020,
       "cor": "Branco",
-      "tipo": "SUV",
-      "quilometragem": 30000,
-      "portas": 4,
       "imagem": "https://blog.usadosbr.com/wp-content/uploads/2018/02/Ford-EcoSport-SE-Direct.png"
     },
     {
@@ -34,9 +25,6 @@
       "modelo": "Onix",
       "ano": 2023,
       "cor": "Azul",
-      "tipo": "Hatch",
-      "quilometragem": 10000,
-      "portas": 4,
       "imagem": "https://mundodoautomovelparapcd.com.br/wp-content/uploads/2020/03/onix-hatch-ls-autom%C3%A1tico-1024x559.jpg"
     },
     {
@@ -44,9 +32,6 @@
       "modelo": "Tucson",
       "ano": 2019,
       "cor": "Vermelho",
-      "tipo": "SUV",
-      "quilometragem": 45000,
-      "portas": 4,
       "imagem": "https://www.autoo.com.br/fotos/2024/10/1280_960/tucson1_15102024_80870_1280_960.jpg"
     },
     {
@@ -54,9 +39,6 @@
       "modelo": "Sandero",
       "ano": 2022,
       "cor": "Prata",
-      "tipo": "Hatch",
-      "quilometragem": 12000,
-      "portas": 4,
       "imagem": "https://cdn-motorshow-ssl.akamaized.net/wp-content/uploads/sites/2/2017/07/4_ms408_renault-sandero-stepway1-630x420.jpg"
     },
     {
@@ -64,9 +46,6 @@
       "modelo": "Golf",
       "ano": 2020,
       "cor": "Cinza",
-      "tipo": "Hatch",
-      "quilometragem": 25000,
-      "portas": 4,
       "imagem": "https://cdn.motor1.com/images/mgl/Qem2ZO/s1/volkswagen-golf-gti-2024.webp"
     },
     {
@@ -74,9 +53,6 @@
       "modelo": "Compass",
       "ano": 2021,
       "cor": "Preto",
-      "tipo": "SUV",
-      "quilometragem": 22000,
-      "portas": 4,
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/0_Jeep_Compass_%28MP%29_1.jpg/1200px-0_Jeep_Compass_%28MP%29_1.jpg"
     },
     {
@@ -84,9 +60,6 @@
       "modelo": "Argo",
       "ano": 2023,
       "cor": "Branco",
-      "tipo": "Hatch",
-      "quilometragem": 5000,
-      "portas": 4,
       "imagem": "https://autoranking.com.br/wp-content/uploads/2022/06/Fiat-Argo.jpeg"
     },
     {
@@ -94,9 +67,6 @@
       "modelo": "Kicks",
       "ano": 2022,
       "cor": "Azul",
-      "tipo": "SUV",
-      "quilometragem": 18000,
-      "portas": 4,
       "imagem": "https://wieck-nissanao-production.s3.amazonaws.com/photos/f7993e6c6fa9845b786c5b3a72ca83a4bb105644/preview-928x522.jpg"
     }
   ]
