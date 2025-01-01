@@ -22,35 +22,5 @@
       "modelo": "Onix",
       "cor": "Azul",
       "imagem": "https://mundodoautomovelparapcd.com.br/wp-content/uploads/2020/03/onix-hatch-ls-autom%C3%A1tico-1024x559.jpg"
-    },
-    {
-      "marca": "Hyundai",
-      "modelo": "Tucson",
-      "cor": "Vermelho",
-      "imagem": "https://www.autoo.com.br/fotos/2024/10/1280_960/tucson1_15102024_80870_1280_960.jpg"
-    },
-    {
-      "marca": "Renault",
-      "modelo": "Sandero",
-      "cor": "Prata",
-      "imagem": "https://cdn-motorshow-ssl.akamaized.net/wp-content/uploads/sites/2/2017/07/4_ms408_renault-sandero-stepway1-630x420.jpg"
-    },
-    {
-      "marca": "Volkswagen",
-      "modelo": "Golf",
-      "cor": "Cinza",
-      "imagem": "https://cdn.motor1.com/images/mgl/Qem2ZO/s1/volkswagen-golf-gti-2024.webp"
-    },
-    {
-      "marca": "Jeep",
-      "modelo": "Compass",
-      "cor": "Preto",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/0_Jeep_Compass_%28MP%29_1.jpg/1200px-0_Jeep_Compass_%28MP%29_1.jpg"
-    },
-    {
-      "marca": "Fiat",
-      "modelo": "Argo",
-      "cor": "Branco",
-      "imagem": "https://autoranking.com.br/wp-content/uploads/2022/06/Fiat-Argo.jpeg"
     }
   ]
